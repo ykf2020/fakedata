@@ -1,0 +1,130 @@
+{
+  "total_count": 12,
+  "total_page": 2,
+  "current_page": 1,
+  "products": [
+    {
+        "id": 28,
+        "handle": "aaa",
+        "title": "CoffeeCoffeeCoffeeCoffeeCoffee CoffeeCoffeeCoffeeCoffeeCoffee",
+        "variants": [
+            {
+                "id": 93,
+                "product_id": 28,
+                "title": "",
+                "price": 200,
+                "compare_at_price": 300,
+                "inventory_quantity": 999
+            }
+        ],
+        "featured_image": {
+            "medium": "https://images.unsplash.com/photo-1595434091143-b375ced5fe5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "large": "https://images.unsplash.com/photo-1595434091143-b375ced5fe5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "grande": "https://images.unsplash.com/photo-1595434091143-b375ced5fe5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        }
+    },
+    {
+        "id": 29,
+        "handle": "911",
+        "title": "911",
+        "variants": [
+            {
+                "id": 94,
+                "product_id": 29,
+                "title": "",
+                "price": 200,
+                "compare_at_price": 299,
+                "inventory_quantity": 9999
+            }
+        ],
+        "featured_image": {
+            "medium": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "large": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "grande": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+        }
+    },
+    {
+        "id": 31,
+        "handle": "sandwich",
+        "title": "sandwich",
+        "price": 300,
+        "variants": [
+            {
+                "id": 96,
+                "product_id": 31,
+                "title": "",
+                "price": 300,
+                "compare_at_price": 301,
+                "weight": 0,
+                "inventory_quantity": null
+            }
+        ],
+        "featured_image": {
+            "medium": "https://images.unsplash.com/photo-1525351326368-efbb5cb6814d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+            "large": "https://images.unsplash.com/photo-1525351326368-efbb5cb6814d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+            "grande": "https://images.unsplash.com/photo-1525351326368-efbb5cb6814d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
+        }
+    },
+    {
+        "id": 30,
+        "handle": "triangle",
+        "title": "triangle",
+        "price": 200,
+        "variants": [
+            {
+                "id": 95,
+                "product_id": 30,
+                "title": "",
+                "price": 200,
+                "compare_at_price": 233,
+                "inventory_quantity": 9999
+            }
+        ],
+        "featured_image": {
+            "medium": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+            "large": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+            "grande": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
+        }
+    },
+    {
+        "id": 32,
+        "handle": "racoon",
+        "title": "racoon",
+        "price": 333,
+        "variants": [
+            {
+                "id": 97,
+                "product_id": 32,
+                "title": "",
+                "price": 333,
+                "compare_at_price": 444,
+                "inventory_quantity": null
+            }
+        ],
+        "featured_image": {
+            "medium": "https://images.unsplash.com/photo-1497752531616-c3afd9760a11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "large": "https://images.unsplash.com/photo-1497752531616-c3afd9760a11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "grande": "https://images.unsplash.com/photo-1497752531616-c3afd9760a11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+        }
+    }],
+  "info": {
+    "title": "週年慶YAYAYA",
+    "type": "percentage",
+    "type_id": 2,
+    "rest_include_discount": false,
+    "rules": [
+      {
+        "percentage": 80,
+        "quantity": 2
+      },
+      {
+        "percentage": 60,
+        "quantity": 3
+      },
+      {
+        "percentage": 50,
+        "quantity": 5
+      }
+    ]
+  }
+}
